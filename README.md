@@ -19,9 +19,10 @@
    <br><br><br>
 
    <hr>
-<h2 align="center">My tools</h2>
+
 <br>
 <p align="center">
+<h2 align="center">My tools</h2>
   <code><img title="css" height="25" src="files/css.svg"></code>
   <code><img title="html5" height="25" src="files/html5.svg"></code>
   <code><img title="javascript" height="25" src="files/javascript.svg"></code>
