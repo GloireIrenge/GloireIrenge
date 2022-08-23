@@ -1,75 +1,45 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<div align="center">
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,;I+am+Glory...;A+Front-end+Web+developper;Glad+to+meet+you&center=true&size=30">
+  </a>
+</h1>
+  <div align=center>
+    <img align="left" width=400 height=150 src="gifffy.gif" alt="GloireIrenge"/>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="right" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=GloireIrenge&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GloireIrenge" />
+    </a>
+    <a href="https://github.com/GloireIrenge/github-readme-stats" title="Go to Source">
+      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=GloireIrenge&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
+    </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GloireIrenge&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
+    </a>
+  </div>
+   <br><br><br>
 
-# Project Name
+   <hr>
+<h2 align="center">My tools</h2>
+<br>
+<p align="center">
+  <code><img title="css" height="25" src="files/css.svg"></code>
+  <code><img title="html5" height="25" src="files/html5.svg"></code>
+  <code><img title="javascript" height="25" src="files/javascript.svg"></code>
+  <code><img title="jquery" height="25" src="files/jquery-original.svg"></code>
+  <code><img title="React" height="25" src="files/react-original.svg"></code>
+  <code><img title="redux" height="25" src="files/redux.svg"></code>
+  <code><img title="sass" height="25" src="files/sass.svg"></code>
+  <code><img title="git" height="25" src="files/git-original.svg"></code>
+</p>
+ 
+ <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=GloireIrenge&theme=xcode" alt="Contribution Graph" align="center" />
+<br>
+<p>
+  <a href="https://github.com/GloireIrenge" >  <img src="https://github.com/GloireIrenge/GloireIrenge/blob/master/images/github-contribution-grid-snake.gif" align="center" />  </a>
+  </p>
+  <br>
+  </p>
+<hr/>
 
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
