@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,;I+am+Glory...;A+Front-end+Web+developper;Glad+to+meet+you&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,;I+am+Glory...;A+Full-Stack+Web+developper;Glad+to+meet+you&center=true&size=30">
   </a>
 </h1>
   <div align=center>
@@ -28,7 +28,10 @@
   <code><img title="jquery" height="25" src="files/jquery-original.svg"></code>
   <code><img title="React" height="25" src="files/react-original.svg"></code>
   <code><img title="redux" height="25" src="files/redux.svg"></code>
+  <code><img title="sass" height="25" src="files/php.svg"></code>
+  <code><img title="sass" height="25" src="files/node.svg"></code>
   <code><img title="sass" height="25" src="files/sass.svg"></code>
+  <code><img title="sass" height="25" src="files/mysql.svg"></code>
   <code><img title="git" height="25" src="files/git-original.svg"></code>
 </p>
  
