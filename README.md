@@ -26,10 +26,7 @@
   <code><img title="html5" height="25" src="files/html5.svg"></code>
   <code><img title="javascript" height="25" src="files/javascript.svg"></code>
   <code><img title="jquery" height="25" src="files/jquery-original.svg"></code>
-  <code><img title="React" height="25" src="files/node.svg"></code>
-  <code><img title="redux" height="25" src="files/redux.svg"></code>
   <code><img title="sass" height="25" src="files/php.svg"></code>
-  <code><img title="sass" height="25" src="files/node.svg"></code>
   <code><img title="sass" height="25" src="files/sass.svg"></code>
   <code><img title="sass" height="25" src="files/mysql.svg"></code>
   <code><img title="git" height="25" src="files/git-original.svg"></code>
