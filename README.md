@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!;I+am+Gloire+Mufungizi;Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Computer+Science+Educator;Business+Intelligence+Enthusiast;Turning+Data+Into+Insights&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!;I+am+Gloire+Mufungizi;Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Computer+Science+Educator;Business+Intelligence;Turning+Data+Into+Insights&center=true&size=30">
   </a>
 </h1>
 
