@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img align="left" width="400" height="200" src="data.gif" alt="GloireIrenge"/>
+<img align="left" width="400" height="500" src="data.gif" alt="GloireIrenge"/>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
 <img align="right" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=GloireIrenge&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GloireIrenge" />
