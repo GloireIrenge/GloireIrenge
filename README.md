@@ -32,14 +32,7 @@
 I am a **Data Analyst and Computer Science Educator** with a Bachelor's degree in Computer Science.
 
 I specialize in transforming raw data into meaningful insights using:
-
-- 📊 Power BI
-- 🗄 SQL
-- 📈 Microsoft Excel
-- ⚡ Power Query
-- 📉 Data Visualization
-- 📋 KPI Reporting
-- 🧠 Business Intelligence
+ 📊 Power BI, 🗄 SQL, 📈 Microsoft Excel,⚡ Power Query, 📉 Data Visualization,📋 KPI Reporting, 🧠 Business Intelligence
 
 I am passionate about helping organizations make data-driven decisions while also teaching digital and computer science skills.
 
